@@ -1,0 +1,14 @@
+.app__footer .footer-image {
+  width: 100% !important;
+}
+
+.copyright {
+  background-color: var(--secondary);
+}
+
+.copyright div {
+  padding: 0.5rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

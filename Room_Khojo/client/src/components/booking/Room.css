@@ -1,0 +1,35 @@
+.room-title {
+  margin-top: 1rem;
+  display: flex;
+  /* gap: 1rem; */
+  align-items: center;
+}
+
+.room-title svg {
+  color: #f46868 !important;
+  gap: 0.25rem !important;
+}
+
+.ratings svg {
+  color: #f46868 !important;
+}
+
+.facilities div {
+  margin: 1rem;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.room-page-price {
+  color: var(--primary);
+  font-size: 1.75rem;
+  font-weight: 800;
+  text-align: right;
+}
+
+.room-page-price div {
+  font-size: 1rem;
+  color: var(--text);
+  font-weight: 400;
+}

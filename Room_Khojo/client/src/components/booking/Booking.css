@@ -1,0 +1,19 @@
+.booking-details {
+  padding: 1rem 1.75rem;
+}
+
+.booking-details form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.booking-hotel-details {
+  padding: 1rem 1.75rem;
+}
+
+.booking-hotel-details p {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}

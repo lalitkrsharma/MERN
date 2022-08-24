@@ -1,0 +1,28 @@
+.app__navbar {
+  background-color: var(--bg-primary);
+  color: var(--text);
+  box-shadow: var(--shadow);
+}
+
+.app__navbar .brand-logo {
+  height: 48px;
+}
+
+.app__navbar .navbar-nav .nav-link {
+  color: var(--text) !important;
+  font-weight: 500;
+}
+
+.app__navbar .auth-link .nav-link {
+  color: var(--primary) !important;
+  font-weight: 600;
+}
+
+@media (min-width: 769px) {
+  .app__navbar .navbar-collapse.collapse {
+    justify-content: end;
+  }
+  .app__navbar .navbar-nav.mr-4 {
+    margin-right: 4rem !important;
+  }
+}

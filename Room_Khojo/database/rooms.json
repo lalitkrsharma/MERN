@@ -1,0 +1,397 @@
+[{
+  "images": [
+    "\\uploads\\ITC Sonar - A Luxury Collection Hotel (1).webp",
+    "\\uploads\\ITC Sonar - A Luxury Collection Hotel (2).jpg",
+    "\\uploads\\ITC Sonar - A Luxury Collection Hotel (3).jpg",
+    "\\uploads\\ITC Sonar - A Luxury Collection Hotel (4).webp",
+    "\\uploads\\ITC Sonar - A Luxury Collection Hotel (5).webp"
+  ],
+  "category": [
+    {
+      "type": "Executive Club Double",
+      "price": 5500,
+      "available": 12
+    },
+    {
+      "type": "Executive Club Exclusive Double",
+      "price": 7000,
+      "available": 10
+    },
+    {
+      "type": "Towers Double",
+      "price": 7500,
+      "available": 10
+    },
+    {
+      "type": "ITC One Double",
+      "price": 9500,
+      "available": 8
+    },
+    {
+      "type": "Princess Suite",
+      "price": 24000,
+      "available": 4
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Brandon Saville",
+      "rating": 5,
+      "comment": "Pristine property probably the most lavish in the city. Staff are extremely courteous and helpful. Rooms are spacious, clean and top notch. In room dining menu was a bit disappointing and needed some more common items. Breakfast buffet had tonnes of options, but unfortunately in my opinion the quality did not seem up to par letting down the entire illusion of high class luxury.",
+      "id": "1"
+    },
+    {
+      "name": "SUPRATIK SOM",
+      "id": "2",
+      "rating": 4,
+      "comment": "We stayed in itc sonar for three days 2 nights. First night was at a itc one double and second one at executive club exclusive. Surprisingly 2nd room was better though tariff was less. Kid meals were excellent specially fish and chips and khichdi. During pandemic i would advise to avail in room dining and go for a no meal option while booking. The hotel rooms were kid friendly. Wooden furniture instead of glass furniture. Ample room and spacious. Bathtub good for family. Cons - minibar not operating. Breakfast in ed-en pavilion was highly crowded. Ni servers at buffet points. Everyone taking foods using same spoon."
+    }
+  ],
+  "name": "ITC Sonar - A Luxury Collection Hotel",
+  "address": "1, JBS Haldane Ave, Tangra, Kolkata, West Bengal 700046",
+  "rating": 4.5
+},{
+  "images": [
+    "\\uploads\\Taj Bengal Hotel(1).jpg",
+    "\\uploads\\Taj Bengal Hotel(2).webp",
+    "\\uploads\\Taj Bengal Hotel(3).webp",
+    "\\uploads\\Taj Bengal Hotel(4).webp",
+    "\\uploads\\Taj Bengal Hotel(5).webp"
+  ],
+  "category": [
+    {
+      "type": "Deluxe Room Twin Bed",
+      "price": 7500,
+      "available": 12
+    },
+    {
+      "type": "Deluxe Room King Bed",
+      "price": 8000,
+      "available": 10
+    },
+    {
+      "type": "Luxury Room Twin Bed",
+      "price": 8500,
+      "available": 10
+    },
+    {
+      "type": "Luxury Room King Bed",
+      "price": 9250,
+      "available": 10
+    },
+    {
+      "type": "Taj Club Room King Bed",
+      "price": 13750,
+      "available": 8
+    },
+    {
+      "type": "Premium Suite",
+      "price": 24000,
+      "available": 4
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Vikash Joshi",
+      "rating": 5,
+      "comment": "It is one of the best taj properties i have visited, very well located, in the city but away from hustle bustle, sparkling clean, good ambience, high service standards, food is excellent, good hygiene practices in place. Will definitely like to revisit. It is one of the best taj properties i have visited, sparkling clean, good ambience, high service standards, food is excellent, good hygiene practices in place.",
+      "id": "1"
+    },
+    {
+      "name": "Deepjyoti Mondal",
+      "id": "2",
+      "rating": 5,
+      "comment": "Taj bengal is located at alipore, about 45 to 60 mins from kolkata airport. The hotel has got around three resturants but if u are opting for a package with meal, then you will have to eat cal27 which is am awesome resturant. Food is delicious. Food served both in dinner and breakfast was very good. The hotel staff is very gentle and welcoming. They maintain proper hygene. They provide u with sanitizer, masks, fire exinguisher and sanitized remotes in room. Over all had a very pleasant stay."
+    }
+  ],
+  "name": "Taj Bengal",
+  "address": "Alipore, Kolkata, West Bengal 700046",
+  "rating": 4.5
+},{
+  "images": [
+    "\\uploads\\Raajkutir Hotel(1).jpg",
+    "\\uploads\\Raajkutir Hotel(2).jpg",
+    "\\uploads\\Raajkutir Hotel(3).webp",
+    "\\uploads\\Raajkutir Hotel(4).jpg",
+    "\\uploads\\Raajkutir Hotel(5).jpg"
+  ],
+  "category": [
+    {
+      "type": "Superior Room",
+      "price": 5000,
+      "available": 12
+    },
+    {
+      "type": "Deluxe Room",
+      "price": 5750,
+      "available": 10
+    },
+    {
+      "type": "Premium Room",
+      "price": 7250,
+      "available": 4
+    },
+    {
+      "type": "SeleQtions Suite",
+      "price": 15000,
+      "available": 4
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Debasish Mitra",
+      "rating": 5,
+      "comment": "Raajkuthir for 34 hours was an amazing experience and it is difficult to describe it in a few lines! first i must mention that the staff right from the front desk through concierge, housekeeping, restaurant, bar, coffee shop and in fact every one makes this place a great holiday resort in every way! amidst the old-bengal charm - the heritage-nostalgic ambiance - well appointed clean rooms - great colonial touch food and bakery - excellent cultural events we had a dreamlike stay at raajkuthir! we came back with a promise to visit again 👍. thanks for the opportunity team mmt!.",
+      "id": "1"
+    },
+    {
+      "name": "Sayoni Banerjee",
+      "id": "2",
+      "rating": 4,
+      "comment": "I really enjoyed the place,the ambience but there were way too many cons that make me think twice to visit the place again. that is ehy i can say it was a good stay not an excellent one! The place is run mostly by trainees and very inefficient staffs! If u call for room service at day time they come in the evening! You call for a bell boy they come after an hour! Regarding the buffet spread it was even so haphazord! There were almost 30 ppl present at the east india dinning space where only 3 ppl serving breakfast! We order an alu parantha. believe me we waited for 1.5 hours and got it on the plate wd a sorry that they were late!☺️ the property is good n visiting it once is okay!! 😊"
+    }
+  ],
+  "name": "Raajkutir - IHCL SeleQtions by Taj",
+  "address": "Kankurgachi, 810m from Salt Lake Stadium, Kolkata, West Bengal 700046",
+  "rating": 4.5
+},{
+  "images": [
+    "\\uploads\\The Westin Hotel(1).webp",
+    "\\uploads\\The Westin Hotel(2).jpg",
+    "\\uploads\\The Westin Hotel(3).webp",
+    "\\uploads\\The Westin Hotel(4).webp",
+    "\\uploads\\The Westin Hotel(5).webp"
+  ],
+  "category": [
+    {
+      "type": "Deluxe King Bed with Bathtub",
+      "price": 5900,
+      "available": 12
+    },
+    {
+      "type": "Deluxe Twin Bed",
+      "price": 6900,
+      "available": 10
+    },
+    {
+      "type": "Deluxe Suite",
+      "price": 14900,
+      "available": 8
+    },
+    {
+      "type": "Executive Suite",
+      "price": 17900,
+      "available": 4
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Vaibhav Jain",
+      "rating": 5,
+      "comment": "Talking about the location, it takes around 40mins to reach central kolkata. Being a 5-star, the service matched that level. Very humble and friendly staff. The room was quite spacious and spotless clean. So was the washroom housing a bathtub with a view. We had requested an early check-in and a room on a higher floor and are request was very kindly fulfilled. Had also booked all three meals (breakfast, lunch & dinner. Amazing spread specially for the breakfast. Needless to say, there was no compromise on quality.",
+      "id": "1"
+    },
+    {
+      "name": "Ankita Ram",
+      "id": "2",
+      "rating": 5,
+      "comment": "Location is great, food was very tasty🤤 and fast served, room was very clean and nicely decorated."
+    }
+  ],
+  "name": "THE WESTIN",
+  "address": "Rajarhat, Kolkata, West Bengal 700046",
+  "rating": 4.5
+},{
+  "images": [
+    "\\uploads\\The Oberoi(1).jpg",
+    "\\uploads\\The Oberoi(2).webp",
+    "\\uploads\\The Oberoi(3).jpg",
+    "\\uploads\\The Oberoi(4).jpg",
+    "\\uploads\\The Oberoi(5).jpg"
+  ],
+  "category": [
+    {
+      "type": "Luxury Room with Private Balcony",
+      "price": 15500,
+      "available": 12
+    },
+    {
+      "type": "Premier Room with Private Balcony",
+      "price": 19500,
+      "available": 10
+    },
+    {
+      "type": "Executive Suite with Private Balcony",
+      "price": 40000,
+      "available": 8
+    },
+    {
+      "type": "Deluxe Suite with Private Balcony",
+      "price": 50000,
+      "available": 4
+    }
+  ],
+  "reviews": [
+    {
+      "name": "MAHENDRADITYA KUMAR SINHA",
+      "rating": 5,
+      "comment": "One of the reasons, Oberoi is my first choice in Bangalore is due to its commitment to deliver the best every time. Personalized attention to each guest for their comfort, security, and hygiene is unmatched. Some pointers and names: i had extended my stay, and Sanjay (room butler, took care of it internally without me having to bother that was amazing. Solomon from housekeeping made sure the room is fresh, hygienic, and new as the first entry, all this time. Thanks, Oberoi aditya Sinha",
+      "id": "1"
+    },
+    {
+      "name": "prasannababu sivakumar",
+      "id": "2",
+      "rating": 5,
+      "comment": "After covid first time i was going to stay in the hotel. I was very much worried because i was traveling with a small child during this covid. I follow all the rules very strictly so i was very anxious. After reaching there i really felt relaxed. Every single rule was followed and my stay there was very comfortable and the best i could have imagined. The staffs were very polite, food was delicious, hygiene and safety measures were best i could have hoped for. Thank you"
+    }
+  ],
+  "name": "THE Oberoi",
+  "address": "37-39, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+  "rating": 4.7
+},{
+  "images": [
+    "\\uploads\\ITC Gardenia(1).webp",
+    "\\uploads\\ITC Gardenia(2).webp",
+    "\\uploads\\ITC Gardenia(3).jpg",
+    "\\uploads\\ITC Gardenia(4).webp",
+    "\\uploads\\ITC Gardenia(5).jpg"
+  ],
+  "category": [
+    {
+      "type": "Towers Double",
+      "price": 15500,
+      "available": 12
+    },
+    {
+      "type": "Towers Exclusive Double",
+      "price": 16500,
+      "available": 10
+    },
+    {
+      "type": "ITC One Double",
+      "price": 18000,
+      "available": 8
+    },
+    {
+      "type": "Towers Suite",
+      "price": 26000,
+      "available": 4
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Diphaa Nair",
+      "rating": 5,
+      "comment": "Itc always has an ostentatious aura around it and true to that image, the gardenia property is located at the middle of cbd (pun intended) ) the staff is courteous and the rooms are ideally positioned to either face the garden city of the pool area. The beds are comfy and nicely lit. Restrooms are tastefully decorated with ample space. Breakfast at any itc hotels is something to look forward to. While the spread was mouthwatering, there’s definite room for improvement when it comes to refilling and swiftness. My daughter and i enjoyed some of the exotic menu customised to our needs by the chef ( the name of the dish is a tongue twister. Overall, it was a lovely and pleasant staycation for us and keep up the good work",
+      "id": "1"
+    },
+    {
+      "name": "Aishwarya Shetty",
+      "id": "2",
+      "rating": 5,
+      "comment": "The rooms were super hygienic and loved the service. They even provided amazing team support for the birthday celebration. The food was lavish, must try their lunch buffet. To summarize we had a beautiful experience."
+    }
+  ],
+  "name": "ITC Gardenia",
+  "address": "1, Residency Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+  "rating": 4.5
+},{
+  "images": [
+    "\\uploads\\JW Marriott(1).jpg",
+    "\\uploads\\JW Marriott(2).jpg",
+    "\\uploads\\JW Marriott(3).webp",
+    "\\uploads\\JW Marriott(4).jpg",
+    "\\uploads\\JW Marriott(5).jpg"
+  ],
+  "category": [
+    {
+      "type": "Deluxe Twin with Bathtub",
+      "price": 17000,
+      "available": 12
+    },
+    {
+      "type": "Deluxe King with Bathtub",
+      "price": 17250,
+      "available": 10
+    },
+    {
+      "type": "Executive Twin with Bathtub",
+      "price": 20000,
+      "available": 10
+    },
+    {
+      "type": "Executive King with Bathtub",
+      "price": 20500,
+      "available": 10
+    },
+    {
+      "type": "Cubboun Suite with Bathtub",
+      "price": 22750,
+      "available": 4
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Soorya Sanjeev",
+      "rating": 5,
+      "comment": "Clean and sanitized rooms, lobby, lift. Very well maintained property true to the 5 star standard. Only feedback is that dinner buffet had comparatively lesser options compared to lunch and breakfast.",
+      "id": "1"
+    },
+    {
+      "name": "Kanchi Gupta",
+      "id": "2",
+      "rating": 4,
+      "comment": "We went for a staycation and, the overall experience was good. We ordered in room dining and, the food was amazing. The most exciting part of the stay was the breakfast spread, very rare to see the variety they have and, everything being freshly baked/cooked. Rooms are spacious and have spectacular views if you have the one with balcony with the cubbon park view. The only thing of improvement would be a little bit of service and, attentiveness of the staff during checkin."
+    }
+  ],
+  "name": "JW Marriott",
+  "address": "24/1, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+  "rating": 4.3
+},{
+  "images": [
+    "\\uploads\\Shangri-La(1).webp",
+    "\\uploads\\Shangri-La(2).webp",
+    "\\uploads\\Shangri-La(3).webp",
+    "\\uploads\\Shangri-La(4).jpg",
+    "\\uploads\\Shangri-La(5).webp"
+  ],
+  "category": [
+    {
+      "type": "Deluxe King",
+      "price": 15000,
+      "available": 12
+    },
+    {
+      "type": "Deluxe Twin",
+      "price": 15500,
+      "available": 10
+    },
+    {
+      "type": "Panorama View Room",
+      "price": 16000,
+      "available": 8
+    },
+    {
+      "type": "Premier Suite",
+      "price": 25000,
+      "available": 4
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Chakrapani Satyavada",
+      "rating": 5,
+      "comment": "Stay here is very peaceful and each and every department works well. Food section has lot of varities to chose from. Ambiance is top notch. It has a good area around the building which can be used for walking. Outdoor dining is good. Gym is excellent. Sauna n steam rooms are very good. Overall it's a peaceful stay with luxurious vibe.",
+      "id": "1"
+    },
+    {
+      "name": "MAHESH KUIMIL",
+      "id": "2",
+      "rating": 5,
+      "comment": "Great central location. Food variety was good but basically the same for the five days we were there. Cleanliness was well maintained and staff was quite helpful."
+    }
+  ],
+  "name": "Shangri - La",
+  "address": "56, 6B, Palace Rd, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka 560052",
+  "rating": 4.5
+}]

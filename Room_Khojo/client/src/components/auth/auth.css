@@ -1,0 +1,24 @@
+.app__auth {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app__auth .card {
+  width: 32rem;
+  text-align: center;
+}
+
+.app__auth .card .card-title {
+  text-align: center;
+  margin: 2rem auto;
+  font-weight: 800;
+}
+
+.app__auth form {
+  height: 42vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

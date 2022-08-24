@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800&display=swap");
+@import "react-datepicker/dist/react-datepicker";
+:root {
+  --primary: #37a168;
+  --secondary: #e6f0e7;
+  --text: #1a1e1c;
+  --bg-primary: #fcfcfc;
+
+  --shadow: 0 2px 15px rgb(0 0 0/20%);
+}
+
+body {
+  margin: 0;
+  font-family: "Mulish", sans-serif;
+  color: var(--text);
+  background-color: var(--bg-primary);
+}
+
+body::-webkit-scrollbar {
+  width: 0.25rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+
+body::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 1rem;
+}
+
+section {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  border-radius: 8px;
+}
+
+.btn-primary {
+  background-color: var(--primary);
+  color: var(--bg-primary);
+  padding-right: 1.25rem;
+  padding-left: 1.25rem;
+  border: 2px solid var(--primary);
+  margin: 4px;
+}
+
+.btn-primary:hover {
+  background-color: #37a168c4;
+  color: var(--bg-primary);
+  border: 2px solid var(--primary);
+}
+
+.card {
+  border-radius: 16px;
+}
+
+.ratings {
+  display: flex;
+  gap: 0.15rem !important;
+  align-items: center;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="date"] {
+  border-radius: 8px;
+}
+
+.text-right {
+  text-align: end;
+}
+
+.toast-container {
+  padding-top: 5rem !important;
+  position: fixed !important;
+}

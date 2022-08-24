@@ -1,0 +1,20 @@
+.app__trendings {
+  margin-top: 5rem;
+}
+
+.app__trendings h4 {
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+.app__trendings .card {
+  width: 22rem;
+}
+
+.app__trendings .card .price-tag-btn {
+  font-size: 1.5rem;
+  font-weight: 800;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

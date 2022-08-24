@@ -1,0 +1,56 @@
+.confirmation-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.booking-confirmed-bg {
+  background-color: var(--primary);
+  color: var(--bg-primary);
+  border-radius: 1rem 1rem 0 0;
+  padding: 1rem 1.5rem;
+}
+
+.booking-confirmed-bg svg {
+  height: 2.5rem !important;
+  width: 2rem !important;
+  float: right;
+  opacity: 0.8;
+}
+
+.confirmation-name {
+  font-size: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.confirmation-date {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.85rem;
+}
+
+.confirmation-info {
+  margin: 0.5rem 0.25rem;
+  background-color: lightgray;
+  height: 3.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.confirmation-action {
+  margin: 0.5rem 0.25rem;
+  padding: 0.5rem;
+  height: 4rem;
+  font-size: 0.85rem;
+  border-radius: 8px;
+  border: 1px solid lightgray;
+}
+
+.confirmation-action > svg {
+  font-size: 1.25rem;
+}

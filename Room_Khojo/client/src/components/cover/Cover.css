@@ -1,0 +1,63 @@
+.app__cover {
+}
+
+.app__cover .row {
+  --bs-gutter-x: 0 !important;
+}
+
+.app__cover .cover {
+  height: 70vh;
+  border-radius: 0 20px 20px 0;
+  object-fit: cover;
+  width: 45vw;
+}
+
+.app__cover .cover-bg {
+  background-color: var(--secondary);
+  border-radius: 20px 0 0 20px;
+  padding: 4.5rem 3.5rem;
+}
+
+.app__cover .cover-bg span.heading {
+  font-size: 2.5rem;
+  font-weight: 800;
+  display: block;
+}
+
+.app__cover .cover-bg span.subheading {
+  display: block;
+  font-weight: 500;
+}
+
+.app__cover .actions {
+  background-color: var(--bg-primary);
+  margin-top: -8rem;
+  width: 60vw;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  border-radius: 12px;
+  padding: 0rem 1rem;
+  padding-right: 0;
+  box-shadow: var(--shadow);
+}
+
+.app__cover .actions > div {
+  display: inline-flex;
+  margin: 0 0.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.app__cover .actions div:last-child {
+  margin-right: 0;
+}
+
+.app__cover .actions div svg {
+  /* height: 2rem;
+  width: auto; */
+  font-size: 1.25rem;
+}
+
+.app__cover .actions div input {
+  border: none;
+}

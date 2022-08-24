@@ -1,0 +1,46 @@
+.search-result-card {
+  margin-bottom: 1rem;
+}
+
+.search-result-card .room-img {
+  width: 75%;
+  object-fit: cover;
+  height: 22rem;
+  border-radius: 8px;
+}
+
+.search-result-card .img-stack {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.search-result-card .img-stack img {
+  border-radius: 8px;
+  height: 33%;
+  object-fit: cover;
+}
+
+.search-result-card .card-title {
+  font-weight: 800;
+  font-size: 1.45rem;
+}
+
+.search-result-card .search-card-footer {
+  position: absolute;
+  width: 50%;
+  bottom: 1.25rem;
+}
+
+.search-result-card .price {
+  color: var(--primary);
+  font-size: 1.75rem;
+  font-weight: 800;
+}
+
+.search-result-card .price div {
+  font-size: 1rem;
+  color: var(--text);
+  font-weight: 400;
+}

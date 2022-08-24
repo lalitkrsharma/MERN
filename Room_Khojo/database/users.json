@@ -1,0 +1,25 @@
+[{
+  "isAdmin": false,
+  "name": "Lipi Bera",
+  "email": "lipi.bera0010@gmail.com",
+  "phone": {
+    "$numberLong": "9547968682"
+  },
+  "password": "e9594fc6bd1fab9f4b450d624664f83e:c557999a393160ef40c515ac7465dcb9=a59d58c6d1af5f04796b28879f31aef1dcf64368c551522b101fa5c6b5c0edf5"
+},{
+  "isAdmin": false,
+  "name": "Iti Bera",
+  "email": "itibera5@gmail.com",
+  "phone": {
+    "$numberLong": "9547968682"
+  },
+  "password": "13dbf0a49309720a97e12397591cc89a:742d39fc356a320497affe2d3afa68b4=9141015eeadff16cb18a7944e10ce4877ac23c4b86c631d6c3856f044eb455f4"
+},{
+  "isAdmin": false,
+  "name": "Amit Manna",
+  "email": "amit@gmail.com",
+  "phone": {
+    "$numberLong": "7001918809"
+  },
+  "password": "177f500e9d1e7b4c5109717aca361f84:8ef0fdf18aeb29790ecbccc52c5d7e47=30fb7cf9afd0dd5a0c9f15e5994055b51e96bdade4d077d9ddf9120b77ed49f9"
+}]
