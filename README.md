@@ -14,8 +14,8 @@ Welcome to a room-booking Website! (Room-Khojo). This site is the result of my o
 
 ## Features
 
-- Browse and search for rooms
-- Book for specific dates
+- Browse and search for rooms.
+- Book for specific dates.
 
 ## Installation
 
