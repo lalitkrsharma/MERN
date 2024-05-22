@@ -1,4 +1,4 @@
-# [Room-Khojo](http://1-stop-shop.vercel.app/): Room Booking Website
+# [Room-Khojo](http://1-stop-shop.vercel.app/):A Room Booking Website
 
 ![Project Logo](https://github.com/lalitkrsharma/Room_Khojo/blob/master/preview.png)
 
