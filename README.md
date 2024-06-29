@@ -4,7 +4,8 @@
 
 ## Description
 
-Welcome to a room-booking Website! (Room-Khojo). This site is the result of my one-month training program at Ardent Computech Pvt. Ltd.
+Welcome to a room-booking Website! (Room-Khojo) 
+This site is the result of my one-month training program at Ardent Computech Pvt. Ltd.
 
 ## Table of Contents
 
